@@ -1,0 +1,4 @@
+../Core/Src/led_driver.c:13:6:user_led_init	1
+../Core/Src/led_driver.c:46:6:user_led_toggle	1
+../Core/Src/led_driver.c:52:6:user_led_set	1
+../Core/Src/led_driver.c:58:6:user_led_reset	1
